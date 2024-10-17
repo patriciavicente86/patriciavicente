@@ -1,4 +1,4 @@
-👋 Hi, I’m @xanekita
+👋 Hi, I’m @patriciavicente86
 - 👀 I'm a Computer Science Engineer who loves to learn new subjects 
 - 🌱 I’m currently enrolled in my Master Degree in Data Engineering and trying to learn German
 - 💞️ I’m looking for an experience to develope my knowledge as a Data Engineer
